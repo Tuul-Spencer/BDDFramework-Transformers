@@ -2,7 +2,7 @@
 Feature: TEK Retail Application SignIn feature
 
   Background: 
-    Given User is on retail website
+    Given User is on retail website // any repeated steps at the beginig of each scenario can be placed under background key worw
     When User click on Sign in option
 
 	
