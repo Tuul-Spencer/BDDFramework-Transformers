@@ -163,3 +163,26 @@
 2023-03-03 00:24:03,948 - logger_File -INFO - user clicked on All section
 2023-03-03 00:24:04,211 - logger_File -INFO - Automative Parts & Accessories is present 
 2023-03-03 00:24:04,261 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-03-05 00:26:00,996 - logger_File -INFO - user is on retail website
+2023-03-05 00:26:01,008 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:26:01,157 - logger_File -INFO - user clicked on All section
+2023-03-05 00:26:01,222 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-05 00:26:01,271 - logger_File -INFO - Computers is equal to Computers
+2023-03-05 00:28:05,730 - logger_File -INFO - user is on retail website
+2023-03-05 00:28:05,745 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:28:05,865 - logger_File -INFO - user clicked on All section
+2023-03-05 00:28:05,925 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-05 00:28:05,968 - logger_File -INFO - Computers is equal to Computers
+2023-03-05 00:29:27,263 - logger_File -INFO - user is on retail website
+2023-03-05 00:29:27,276 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:29:27,383 - logger_File -INFO - user clicked on All section
+2023-03-05 00:29:27,454 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-05 00:29:27,495 - logger_File -INFO - Computers is equal to Computers
+2023-03-05 00:35:18,957 - logger_File -INFO - user is on retail website
+2023-03-05 00:35:18,969 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:35:19,090 - logger_File -INFO - user clicked on All section
+2023-03-05 00:35:19,209 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-05 00:35:19,255 - logger_File -INFO - Computers is equal to Computers
+2023-03-05 00:35:19,302 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-05 00:35:19,350 - logger_File -INFO - Sports is equal to Sports
+2023-03-05 00:35:19,381 - logger_File -INFO - Automative is equal to Automative

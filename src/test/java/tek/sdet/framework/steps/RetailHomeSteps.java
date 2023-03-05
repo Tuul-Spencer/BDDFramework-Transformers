@@ -13,7 +13,7 @@ import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
 
-public class RetailSteps extends CommonUtility {
+public class RetailHomeSteps extends CommonUtility {
 
 	private POMFactory factory = new POMFactory();
 	// create object Retailapage

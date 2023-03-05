@@ -163,3 +163,26 @@
 2023-03-03 00:24:03,948 [main] INFO logger_File - user clicked on All section
 2023-03-03 00:24:04,211 [main] INFO logger_File - Automative Parts & Accessories is present 
 2023-03-03 00:24:04,261 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-05 00:26:00,996 [main] INFO logger_File - user is on retail website
+2023-03-05 00:26:01,008 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:26:01,157 [main] INFO logger_File - user clicked on All section
+2023-03-05 00:26:01,222 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-05 00:26:01,271 [main] INFO logger_File - Computers is equal to Computers
+2023-03-05 00:28:05,730 [main] INFO logger_File - user is on retail website
+2023-03-05 00:28:05,745 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:28:05,865 [main] INFO logger_File - user clicked on All section
+2023-03-05 00:28:05,925 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-05 00:28:05,968 [main] INFO logger_File - Computers is equal to Computers
+2023-03-05 00:29:27,263 [main] INFO logger_File - user is on retail website
+2023-03-05 00:29:27,276 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:29:27,383 [main] INFO logger_File - user clicked on All section
+2023-03-05 00:29:27,454 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-05 00:29:27,495 [main] INFO logger_File - Computers is equal to Computers
+2023-03-05 00:35:18,957 [main] INFO logger_File - user is on retail website
+2023-03-05 00:35:18,969 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 00:35:19,090 [main] INFO logger_File - user clicked on All section
+2023-03-05 00:35:19,209 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-05 00:35:19,255 [main] INFO logger_File - Computers is equal to Computers
+2023-03-05 00:35:19,302 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-05 00:35:19,350 [main] INFO logger_File - Sports is equal to Sports
+2023-03-05 00:35:19,381 [main] INFO logger_File - Automative is equal to Automative
