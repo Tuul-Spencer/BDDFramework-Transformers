@@ -186,3 +186,11 @@
 2023-03-05 00:35:19,302 - logger_File -INFO - Smart Home is equal to Smart Home
 2023-03-05 00:35:19,350 - logger_File -INFO - Sports is equal to Sports
 2023-03-05 00:35:19,381 - logger_File -INFO - Automative is equal to Automative
+2023-03-05 02:19:42,508 - logger_File -INFO - user is on retail website
+2023-03-05 02:19:42,516 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-05 02:19:42,638 - logger_File -INFO - user clicked on All section
+2023-03-05 02:19:42,690 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-05 02:19:42,723 - logger_File -INFO - Computers is equal to Computers
+2023-03-05 02:19:42,757 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-05 02:19:42,790 - logger_File -INFO - Sports is equal to Sports
+2023-03-05 02:19:42,822 - logger_File -INFO - Automative is equal to Automative
