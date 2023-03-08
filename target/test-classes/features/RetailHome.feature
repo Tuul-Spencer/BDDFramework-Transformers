@@ -1,4 +1,4 @@
-@RetailHomePage
+@JenkinsTriggerTest
 Feature: This feature is use for testing UI of Retail page
 
   Scenario: Verify user can search a product
@@ -6,14 +6,12 @@ Feature: This feature is use for testing UI of Retail page
     When User search for "pokemon" product
     Then The product should be displayed
 
-  @smokeTest
   Scenario: Verify Shop by Department sidebar
     Given User is on retail website
     When User click on All section
     Then below options are present in shop by department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
 
-  @test 
   Scenario Outline: Verify Department sidebar options
     Given User is on retail website
     When User click on All section
